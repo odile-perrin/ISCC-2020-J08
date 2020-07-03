@@ -1,5 +1,4 @@
 <header>
-    <title>SCC Accueil</title>
     
     <?php include ("navigation.php");?>
 

@@ -4,7 +4,7 @@
     <title>Programme</title>
 
 <body>
-<?php $page = 'programme'; include ("header.php");?>
+<?php $page = 'programme'?>
     <h2>Programme ISCC 2020</h2>
     <center>
     <div id="tableau">
@@ -104,7 +104,6 @@
 </div>     
 </center>  
 
-<?php include ("footer.php");?>
     </body>
 
 </html>

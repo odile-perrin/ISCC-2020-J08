@@ -4,7 +4,7 @@
     <title>Accueil</title>
 
     <body>
-        <?php $page = 'accueil'; include ("header.php");?>
+        <?php $page = 'accueil'?>
         <h2>ACCUEIL</h2>
         <div class="block">
             <p><i>Le numérique, nouvelle ère de l’humanité, source d’innovation et de performance ?</i>
@@ -15,7 +15,7 @@
 </div>
 
 
-<?php include ("footer.php");?>
+
 </body>
 
 </html>

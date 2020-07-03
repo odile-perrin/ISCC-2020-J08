@@ -4,7 +4,7 @@
     <title>Contact</title>
 
 <body>
-<?php $page = 'contact'; include ("header.php");?>
+<?php $page = 'contact'?>
 <h2>Contact</h2>
 <center>
 <form method="POST" action="traitement.php">
@@ -30,7 +30,6 @@
 </center>
 </form>
 
-<?php include ("footer.php");?>
 </body>
 
 </html>
