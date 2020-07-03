@@ -1,3 +1,4 @@
 <?php
-<A HREF="https://www.okcupid.com/404"></A>;
+echo "<h1>404</h1>";
+echo '<img src="assets" alt="meme">';
 ?>

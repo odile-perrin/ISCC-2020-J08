@@ -7,7 +7,7 @@
 <?php $page = 'contact'?>
 <h2>Contact</h2>
 <center>
-<form method="POST" action="traitement.php">
+<form method="POST" action="http://localhost/iscc/ISCC-2020-J08/Exo_02/index.php?page=contact-form">
     <fieldset>
         <label for="nom">Votre nom</label>
     <div id="nom">
@@ -29,7 +29,6 @@
     </fieldset> 
 </center>
 </form>
-
 </body>
 
 </html>
